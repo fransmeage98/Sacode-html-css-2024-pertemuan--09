@@ -1,2 +1,8 @@
-# Sacode-html-css-2024-pertemuan--09
-Belajar coding dasar  di SaCode melalui GIthhub
+# Belajar coding dasar  di SaCode melalui GIthhub
+
+## Git Commands
+
+Git add: Digunakan untuk perintah menambahkan file baru ke repository yang baru dipilih. 
+```
+git add .
+```
